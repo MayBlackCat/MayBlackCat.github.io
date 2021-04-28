@@ -3,11 +3,11 @@
   <title>MayBlackCat&#39;s Blog</title>
   
   <subtitle>Cat&#39;s life</subtitle>
-  <link href="https://mayblack.github.com/mayblackcat/blog/atom.xml" rel="self"/>
+  <link href="https://github.com/MayBlackCat/MayBlackCat.github.io.git/atom.xml" rel="self"/>
   
-  <link href="https://mayblack.github.com/mayblackcat/blog/"/>
+  <link href="https://github.com/MayBlackCat/MayBlackCat.github.io.git/"/>
   <updated>2021-04-27T04:01:46.303Z</updated>
-  <id>https://mayblack.github.com/mayblackcat/blog/</id>
+  <id>https://github.com/MayBlackCat/MayBlackCat.github.io.git/</id>
   
   <author>
     <name>MayBlackCat</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Black Cat Home</title>
-    <link href="https://mayblack.github.com/mayblackcat/blog/2021/04/21/CatHomePage/"/>
-    <id>https://mayblack.github.com/mayblackcat/blog/2021/04/21/CatHomePage/</id>
+    <link href="https://github.com/MayBlackCat/MayBlackCat.github.io.git/2021/04/21/CatHomePage/"/>
+    <id>https://github.com/MayBlackCat/MayBlackCat.github.io.git/2021/04/21/CatHomePage/</id>
     <published>2021-04-20T16:00:00.000Z</published>
     <updated>2021-04-27T04:01:46.303Z</updated>
     
